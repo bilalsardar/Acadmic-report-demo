@@ -1,0 +1,56 @@
+[12-Jan-2017 00:14:44 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 26
+[12-Jan-2017 00:16:31 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 26
+[12-Jan-2017 00:17:11 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 26
+[12-Jan-2017 00:17:58 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 26
+[12-Jan-2017 00:18:30 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 26
+[12-Jan-2017 00:27:20 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 26
+[12-Jan-2017 00:27:20 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 27
+[12-Jan-2017 00:46:13 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 26
+[12-Jan-2017 00:46:13 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 27
+[12-Jan-2017 00:46:34 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 26
+[12-Jan-2017 00:46:34 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 27
+[12-Jan-2017 01:18:00 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 27
+[12-Jan-2017 01:18:00 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 28
+[12-Jan-2017 01:18:39 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 27
+[12-Jan-2017 01:18:39 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 28
+[12-Jan-2017 01:59:36 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 27
+[12-Jan-2017 01:59:36 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 28
+[12-Jan-2017 02:05:59 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 27
+[12-Jan-2017 02:05:59 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 28
+[12-Jan-2017 02:08:05 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 27
+[12-Jan-2017 02:08:05 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 28
+[12-Jan-2017 05:22:36 America/Chicago] PHP Parse error:  syntax error, unexpected '$jan' (T_VARIABLE), expecting ',' or ';' in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 44
+[12-Jan-2017 05:42:05 America/Chicago] PHP Fatal error:  Call to undefined function month_progress() in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 57
+[12-Jan-2017 05:42:36 America/Chicago] PHP Warning:  Attempt to assign property of non-object in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 58
+[12-Jan-2017 05:42:36 America/Chicago] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Index invalid or out of range' in /home4/x6h4c1y0/public_html/portfolio/report/index2.php:58
+Stack trace:
+#0 /home4/x6h4c1y0/public_html/portfolio/report/index2.php(58): unknown()
+#1 {main}
+  thrown in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 58
+[13-Jan-2017 00:57:42 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 28
+[13-Jan-2017 00:57:42 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 29
+[13-Jan-2017 01:06:48 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 28
+[13-Jan-2017 01:06:48 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 29
+[13-Jan-2017 01:06:55 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 28
+[13-Jan-2017 01:06:55 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 29
+[13-Jan-2017 01:06:57 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 28
+[13-Jan-2017 01:06:57 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 29
+[13-Jan-2017 01:31:44 America/Chicago] PHP Warning:  Division by zero in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 70
+[13-Jan-2017 01:31:44 America/Chicago] PHP Warning:  Division by zero in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 70
+[13-Jan-2017 19:55:34 America/Chicago] PHP Warning:  Division by zero in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 312
+[13-Jan-2017 19:57:26 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 28
+[13-Jan-2017 19:57:26 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 29
+[13-Jan-2017 19:57:26 America/Chicago] PHP Warning:  Division by zero in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 312
+[15-Jan-2017 10:11:51 America/Chicago] PHP Warning:  Division by zero in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 423
+[15-Jan-2017 11:16:28 America/Chicago] PHP Fatal error:  Call to undefined function int() in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 407
+[15-Jan-2017 11:17:44 America/Chicago] PHP Fatal error:  Call to undefined function int() in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 407
+[15-Jan-2017 11:18:08 America/Chicago] PHP Fatal error:  Call to undefined function int() in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 407
+[15-Jan-2017 11:19:47 America/Chicago] PHP Fatal error:  Call to undefined function int() in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 407
+[16-Jan-2017 04:05:00 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 35
+[16-Jan-2017 04:05:00 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 36
+[16-Jan-2017 15:10:49 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 36
+[16-Jan-2017 15:10:49 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 37
+[16-Jan-2017 18:45:03 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 36
+[16-Jan-2017 18:45:03 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 37
+[16-Jan-2017 22:34:26 America/Chicago] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 36
+[16-Jan-2017 22:34:26 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home4/x6h4c1y0/public_html/portfolio/report/index2.php on line 37
